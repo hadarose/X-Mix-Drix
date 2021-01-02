@@ -1,5 +1,5 @@
 import "./App.css";
-import Board from "./Board";
+import Game from "./Game";
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Are You Game?</h1>
 
-        <Board />
+        <Game />
       </header>
     </div>
   );
