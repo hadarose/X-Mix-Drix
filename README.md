@@ -1,9 +1,9 @@
 
 # X-Mix-Drix
 
-### In this project I converted my first HTML coding exercise into a React project. 
-### This is a Tic-Tac-Toe game (aka X-Mix-Drix), and the rules are pretty straight forward.
-### I didn't focus on the graphics as I just wanted to practice my knowledge in:
+#### In this project I converted my first HTML coding exercise into a React project. 
+#### This is a Tic-Tac-Toe game (aka X-Mix-Drix), and the rules are pretty straight forward.
+#### I didn't focus on the graphics as I just wanted to practice my knowledge in:
 ##### Class Components vs Functional Components
 ##### Immutability and retrieving game's history
 ##### Planning a well organized hierarchy
